@@ -1,10 +1,23 @@
 # Emergency aid for self-employed in the COVID-19 pandemic - a flash in the pan?
 
-authors: Jörn Block (Trier University), Alexander S. Kritikos (DIW Berlin), Maximilian Priem (DIW econ), Caroline Stiel (DIW Berlin)
+**authors:** Jörn Block (Trier University), Alexander S. Kritikos (DIW Berlin), Maximilian Priem (DIW econ), Caroline Stiel (DIW Berlin)
 
-published in: Block, J., Kritikos, A.; Priem, M; Stiel, C. (2022): Emergency Aid for Self-Employed in the COVID-19 Pandemic: A Flash in the Pan? Journal of Economic Psychology. 93(102567).
+Research paper published in Block, J., Kritikos, A.; Priem, M; Stiel, C. (2022): Emergency Aid for Self-Employed in the COVID-19 Pandemic: A Flash in the Pan? Journal of Economic Psychology. 93(102567).
 
-_Abstract: The self-employed faced strong income losses during the Covid-19 pandemic. Many governments introduced programs to financially support the self-employed during the pandemic, including Germany. The German Ministry for Economic Affairs announced a €50bn emergency-aid program in March 2020, offering one-off lump-sum payments of up to €15,000 to those facing substantial revenue declines. By reassuring the self-employed that the government ‘would not let them down’ during the crisis, the program had also the important aim of motivating the self-employed to get through the crisis. We investigate whether the program affected the confidence of the self-employed to survive the crisis using real-time online-survey data comprising more than 20,000 observations. We employ propensity score matching, making use of a rich set of variables that influence the subjective survival probability as main outcome measure. We observe that this program had significant effects, with the subjective survival probability of the self-employed being moderately increased. We reveal important effect heterogeneities with respect to education, industries, and speed of payment. Notably, positive effects only occur among those self-employed whose application was processed quickly. This suggests stress-induced waiting costs due to the uncertainty associated with the administrative processing and the overall pandemic situation. Our findings have policy implications for the design of support programs, while also contributing to the literature on the instruments and effects of entrepreneurship policy interventions in crisis situations._
+The empirical analysis was done in `STATA`. In this repository you find all statistical programs to conduct the analyses in the article. 
 
-The empirical analysis was done in `STATA`. In this repository you find all statistical programs necessary to conduct the analyses in the article. The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary material is available at https://portal.fdz-bo.diw.de/study/S0021 and in Bertschek et al. (2022): Survey: The self-employed’s situation during the COVID-19 pandemic in Germany 2020. DIW Data Documentation Series, 102.
+## Summary
 
+_The self-employed faced strong income losses during the Covid-19 pandemic. Many governments introduced programs to financially support the self-employed during the pandemic, including Germany. The German Ministry for Economic Affairs announced a €50bn emergency-aid program in March 2020, offering one-off lump-sum payments of up to €15,000 to those facing substantial revenue declines. By reassuring the self-employed that the government ‘would not let them down’ during the crisis, the program had also the important aim of motivating the self-employed to get through the crisis. We investigate whether the program affected the confidence of the self-employed to survive the crisis using real-time online-survey data comprising more than 20,000 observations. We employ propensity score matching, making use of a rich set of variables that influence the subjective survival probability as main outcome measure. We observe that this program had significant effects, with the subjective survival probability of the self-employed being moderately increased. We reveal important effect heterogeneities with respect to education, industries, and speed of payment. Notably, positive effects only occur among those self-employed whose application was processed quickly. This suggests stress-induced waiting costs due to the uncertainty associated with the administrative processing and the overall pandemic situation. Our findings have policy implications for the design of support programs, while also contributing to the literature on the instruments and effects of entrepreneurship policy interventions in crisis situations._
+
+## Methods and data
+
+### Individual-level survey data
+
+The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary material including the questionnaire is available at https://portal.fdz-bo.diw.de/study/S0021.
+
+### Methods
+
+## Further reading
+
+- Bertschek et al. (2022): Survey: The self-employed’s situation during the COVID-19 pandemic in Germany 2020. DIW Data Documentation Series, 102.
