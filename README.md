@@ -24,13 +24,13 @@ In spring 2020, we conducted an online survey among self-employed persons to col
 - **data collection:** ZEW Mannheim, Trier University, DIW Berlin
 
 The questionnaire includes 51 questions and focuses on the following topics:
-- the self-employed's affectedness by the pandemic and by government containment measures
-- financial situation during the pandemic
-- application for government support programs
-- business strategies to overcome the crisis
-- assessments of the future
-- sociodemographic characteristics
-- business-related characteristics
+1. the self-employed's affectedness by the pandemic and by government containment measures
+2. financial situation during the pandemic
+3. application for government support programs
+4. business strategies to overcome the crisis
+5. assessments of the future
+6. sociodemographic characteristics
+7. business-related characteristics
 
 The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary material including the questionnaire is available at https://portal.fdz-bo.diw.de/study/S0021.
 
