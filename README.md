@@ -2,7 +2,7 @@
 
 **authors:** Jörn Block (Trier University), Alexander S. Kritikos (DIW Berlin), Maximilian Priem (DIW econ), Caroline Stiel (DIW Berlin)
 
-Research paper published in Block, J., Kritikos, A.; Priem, M; Stiel, C. (2022): Emergency Aid for Self-Employed in the COVID-19 Pandemic: A Flash in the Pan? Journal of Economic Psychology. 93(102567).
+Research paper published in Block, J., Kritikos, A.; Priem, M; Stiel, C. (2022): [Emergency Aid for Self-Employed in the COVID-19 Pandemic: A Flash in the Pan?](https://doi.org/10.1016/j.joep.2022.102567) Journal of Economic Psychology. 93(102567).
 
 The empirical analysis was done in `STATA`. In this repository you find all statistical programs to conduct the analyses in the article. 
 
@@ -12,7 +12,18 @@ _The self-employed faced strong income losses during the Covid-19 pandemic. Many
 
 ## Methods and data
 
-### Individual-level survey data
+### Online survey among 27,000 self-employed persons
+
+In spring 2020, we conducted an online survey among self-employed persons to collect data on the situation of the self-employed in Germany at the onset of the COVID-19 pandemic. 
+
+The questionnaire includes 51 questions and focuses on the following topics:
+- the self-employed's affectedness by the pandemic and by government containment measures
+- financial situation during the pandemic
+- application for government support programs
+- business strategies to overcome the crisis
+- assessments of the future
+- sociodemographic characteristics
+- business-related characteristics
 
 The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary material including the questionnaire is available at https://portal.fdz-bo.diw.de/study/S0021.
 
@@ -20,4 +31,4 @@ The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary m
 
 ## Further reading
 
-- Bertschek et al. (2022): Survey: The self-employed’s situation during the COVID-19 pandemic in Germany 2020. DIW Data Documentation Series, 102.
+- Bertschek et al. (2022): [Survey: The self-employed’s situation during the COVID-19 pandemic in Germany 2020.](https://dx.doi.org/10.18723/diw_ddc:2022-102) DIW Data Documentation Series, 102.
