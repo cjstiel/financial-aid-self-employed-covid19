@@ -14,7 +14,13 @@ _The self-employed faced strong income losses during the Covid-19 pandemic. Many
 
 ### Online survey among 27,000 self-employed persons
 
-In spring 2020, we conducted an online survey among self-employed persons to collect data on the situation of the self-employed in Germany at the onset of the COVID-19 pandemic. 
+In spring 2020, we conducted an online survey among self-employed persons to collect data on the situation of the self-employed in Germany at the onset of the COVID-19 pandemic.
+
+- **survey period:** 07/04/2020-04/05/2020
+- **industries**: all industries
+- **regional levels:** NUTS 1 (federal states)
+- **sampling:** online survey with self-selection
+- **number of observations:** 27,262
 
 The questionnaire includes 51 questions and focuses on the following topics:
 - the self-employed's affectedness by the pandemic and by government containment measures
