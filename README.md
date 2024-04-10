@@ -21,6 +21,7 @@ In spring 2020, we conducted an online survey among self-employed persons to col
 - **regional levels:** NUTS 1 (federal states)
 - **sampling:** online survey with self-selection
 - **number of observations:** 27,262
+- **data collection:** ZEW Mannheim, Trier University, DIW Berlin
 
 The questionnaire includes 51 questions and focuses on the following topics:
 - the self-employed's affectedness by the pandemic and by government containment measures
