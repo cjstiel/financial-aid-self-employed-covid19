@@ -39,3 +39,4 @@ The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary m
 ## Further reading
 
 - Bertschek et al. (2022): [Survey: The self-employed’s situation during the COVID-19 pandemic in Germany 2020.](https://dx.doi.org/10.18723/diw_ddc:2022-102) DIW Data Documentation Series, 102.
+- Block, J. et al. (2021): [Soforthilfe für Selbstst&auml;ndige wirkt vor allem positiv, wenn sie rasch gew&auml;hrt wird.](http://hdl.handle.net/10419/233039) DIW Aktuell No. 60. 2021.
