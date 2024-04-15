@@ -2,7 +2,7 @@
 
 **authors:** Jörn Block (Trier University), Alexander S. Kritikos (DIW Berlin), Maximilian Priem (DIW econ), Caroline Stiel (DIW Berlin)
 
-Research paper published in Block, J., Kritikos, A.; Priem, M; Stiel, C. (2022): [Emergency Aid for Self-Employed in the COVID-19 Pandemic: A Flash in the Pan?](https://doi.org/10.1016/j.joep.2022.102567) Journal of Economic Psychology. 93(102567).
+Research paper published in Block, J., Kritikos, A.S.; Priem, M; Stiel, C. (2022): [Emergency Aid for Self-Employed in the COVID-19 Pandemic: A Flash in the Pan?](https://doi.org/10.1016/j.joep.2022.102567) Journal of Economic Psychology. 93(102567).
 
 The empirical analysis was done in `STATA`. In this repository you find all statistical programs to conduct the analyses in the article. 
 
